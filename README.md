@@ -32,7 +32,7 @@ O jogo é um RPG de exploração onde o jogador avança por diferentes cenários
 
 - **Linguagem de Programação**: Java
 - **Biblioteca Gráfica**: Java Swing
-- **Ferramentas de Desenvolvimento**: IntelliJ IDEA, Git
+- **Ferramentas de Desenvolvimento**: Visual studio code, Git
 
 ## 🤝 Como Contribuir
 
